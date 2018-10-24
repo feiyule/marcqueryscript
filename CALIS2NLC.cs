@@ -354,7 +354,7 @@ public class CALIS2NLC : MarcQueryHost
 
         }
 
-         record.Feilds.sort();
+         record.Fields.sort();
          this.Changed = true;
 
     }
